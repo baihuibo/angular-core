@@ -1,0 +1,12 @@
+{
+  "name": "@baihuibo/angular-core",
+  "version": "1.0.0",
+  "description": "angular1的项目种子核心组件",
+  "main": "core.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "baihuibo@hotmail.com",
+  "repository" : "github",
+  "license": "ISC"
+}
