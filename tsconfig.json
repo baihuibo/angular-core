@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "allowJs": true,
+    "noEmitHelpers": true,
+    "lib": [
+      "es6",
+      "es2016.array.include",
+      "es2017.object",
+      "dom"
+    ],
+    "experimentalDecorators": true,
+    "typeRoots": [
+      "./node_modules/@types"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
